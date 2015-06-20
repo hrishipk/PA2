@@ -1,8 +1,8 @@
-## The following two functions creates, calculates the inverse of th input matrix 
-##and returns the inverse matrix.
+## The following two functions create, calculate the inverse of th input matrix 
+##and return the inverse matrix.
 
 
-## the following functions creates a matrix, sets the matrix, 
+## the following function creates a matrix, sets the matrix, 
 ##sets the inverse of the input matrix and gets the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
